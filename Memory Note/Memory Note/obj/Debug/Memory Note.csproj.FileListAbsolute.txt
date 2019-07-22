@@ -1,0 +1,27 @@
+D:\My Projects\csharp projects\Memory Note\Memory Note\bin\Debug\Memory Note.exe.config
+D:\My Projects\csharp projects\Memory Note\Memory Note\bin\Debug\Memory Note.exe
+D:\My Projects\csharp projects\Memory Note\Memory Note\bin\Debug\Memory Note.pdb
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\view\MainWindow.baml
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\view\MainWindow.g.cs
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\App.g.cs
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\Memory Note_MarkupCompile.cache
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\Memory Note.g.resources
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\Memory_Note.Properties.Resources.resources
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\Memory Note.csproj.GenerateResource.cache
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\Memory Note.csproj.CoreCompileInputs.cache
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\Memory Note.exe
+D:\My Projects\csharp projects\Memory Note\Memory Note\obj\Debug\Memory Note.pdb
+D:\My Projects\github portfolio\Memory Note\Memory Note\bin\Debug\Memory Note.exe.config
+D:\My Projects\github portfolio\Memory Note\Memory Note\bin\Debug\Memory Note.exe
+D:\My Projects\github portfolio\Memory Note\Memory Note\bin\Debug\Memory Note.pdb
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\Memory Note.csprojAssemblyReference.cache
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\view\MainWindow.baml
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\view\MainWindow.g.cs
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\App.g.cs
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\Memory Note_MarkupCompile.cache
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\Memory Note.g.resources
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\Memory_Note.Properties.Resources.resources
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\Memory Note.csproj.GenerateResource.cache
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\Memory Note.csproj.CoreCompileInputs.cache
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\Memory Note.exe
+D:\My Projects\github portfolio\Memory Note\Memory Note\obj\Debug\Memory Note.pdb
